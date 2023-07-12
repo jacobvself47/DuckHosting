@@ -1,2 +1,1 @@
 # DuckHosting
-# DuckHosting
